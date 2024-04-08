@@ -60,8 +60,8 @@ html {
 .dark-mode section,
 .dark-mode section .title,
 .dark-mode section .home
-.dark-mode .services,
-.dark-mode .teams
+.dark-mode section .teams
+.dark-mode .services
 {
     background-color:#111;
     color:#fff;
@@ -87,7 +87,6 @@ html {
     background: #111;
 }
 
-.dark-mode .teams,
 .dark-mode .services .serv-content .card,
 .dark-mode .teams .carousel .card {
     background-color: #333;
